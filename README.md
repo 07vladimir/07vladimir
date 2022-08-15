@@ -1,9 +1,3 @@
-### Hi there 👋
+L'idée est de créer une boutique de vente d'accessoires de basket-ball
 
-
-Je m'appelle Vladimir GNANSOUNOU, je suis étudiant en 2e année de sécurité informatique à l'Institut de Formation et de Recherche en Informatique
-Je fais actuellement un stage de développement web au BJFARMERS.
-J'utilise pour cela des langages comme HTML, CSS, Bootstrap.
-Pour me contacter : 
-Facebook : Vladimir GNANSOUNOU
-WhatsApp : +229 66529358
+https://docs.google.com/document/d/1URzIWNVk2dVr4Q-MlvLNeu1TzPEFfRqHelcXs2CaKFc/edit?usp=drivesdk
